@@ -8,8 +8,6 @@ import trainer
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 plt.switch_backend('agg')
-# how to download it is
-# $ pip install pot
 
 def create_directory(dir_name):
     """create directory
